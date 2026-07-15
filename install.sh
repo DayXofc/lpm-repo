@@ -4,13 +4,10 @@
 set -e
 
 # --- КОНФИГУРАЦИЯ ---
-# ЗАМЕНИ НА СВОЙ НИК И ИМЯ РЕПОЗИТОРИЯ:
-GITHUB_USER="D"
-REPO_NAME="lpm"
 BINARY_NAME="lpm"
 INSTALL_DIR="$HOME/.local/bin"
 
-# Ссылка на raw-версию файла в ветке main
+# Ссылка на raw-версию файлов в твоем репозитории lpm-repo
 RAW_URL="https://raw.githubusercontent.com/DayXofc/lpm-repo/refs/heads/main"
 
 echo "=== Установка $BINARY_NAME напрямую из GitHub ==="
