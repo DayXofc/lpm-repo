@@ -6,7 +6,7 @@
       "name": "lfetch",
       "version": "1.0",
       "description": "Simple system info fetch utility for LimboOS",
-      "size_bytes": 850000, 
+      "size_bytes": 369511, 
       "sha256": "409efea570925aa5a2ac3e3f02d7eaa215b155c6e1dfa265c723d648d31379fb",
       "dependencies": [],
       "download_url": "https://raw.githubusercontent.com/DayXofc/lpm-repo/main/lfetch-1.0.tar.zst"
